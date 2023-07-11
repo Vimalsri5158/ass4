@@ -1,0 +1,62 @@
+ [
+    {
+      "title":"$40.00 - $80.00" ,
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body": "Fancy Product",
+      "footer": "View options"
+    },
+    {
+      "title":"$20.00-( $18.00 )" ,
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body":"Special Item" ,
+      "footer": "Add to cart"
+      
+    },
+    {
+      "title": "$50.00-( $25.00 )",
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body": "Sale Item",
+      "footer": "Add to cart"
+    },
+    {
+      "title": "$40.00",
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body": "Popular Item",
+      "footer": "Add to cart"
+      
+    },
+    {
+      "title": "$50.00-( $25.00 )",
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body": "Sale Item",
+      "footer": "Add to cart"
+    },
+    {
+      "title": "$120.00- $280.00",
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body":"Fancy Product", 
+      "footer": "View options"
+    },
+    {
+      "title": "$20.00-( $18.00 )",
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body": "Special Item",
+      "footer": "Add to cart"
+     
+    },
+    {
+      "title": "$40.00",
+      "description": "Sale",
+      "image": "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/450x300.jpg",
+      "body": "Popular Item",
+      "footer": "Add to cart"
+    }
+  ]
+  
